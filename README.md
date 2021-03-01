@@ -16,6 +16,7 @@
     * changed <div> meant to contain the hero section to <section> for best practise, less use of <div>, and accessibility
     * missing "id" element in the section container to allow the navigation bar to direct to this section
     * Included an "alt" attribute describing the section image for screen reader accessibility
+    * Changed section class from "search-engine-optimization" to "content-section" and did similar change to the other two sections to apply the same stlying with less code
 
 #### Online Reputation Management
     * changed <div> meant to contain the hero section to <section> for best practise, less use of <div>, and accessibility
@@ -30,3 +31,8 @@
     * Eliminated div classes "benefit-brand" and "benefit-cost" as they provide exactly the same sylting as the Div class "benefit-lead", so used "benefit-lead" to replace them.
     * Gave each image in this section an empty "alt" attributes as they are simply decorative
 
+### Footer
+    *Footer element added, eliminated the div with class of fotter and updated corresponding CSS selector
+
+### CSS
+    * Added comments to break up sections to comply with Scout Rule
