@@ -25,3 +25,8 @@
     * changed <div> meant to contain the hero section to <section> for best practise, less use of <div>, and accessibility
     * Included an "alt" attribute describing the section image for screen reader accessibility
 
+#### Benefit Section
+    * Included section heading "Benefits" and gave its own css stlying class
+    * Eliminated div classes "benefit-brand" and "benefit-cost" as they provide exactly the same sylting as the Div class "benefit-lead", so used "benefit-lead" to replace them.
+    * Gave each image in this section an empty "alt" attributes as they are simply decorative
+
