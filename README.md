@@ -3,6 +3,7 @@
 ## Accessibility changes
 
  ### Header
+ ![Header Changes](./assests/images/header-changes.png)
     * header element added as it was missing - eliminated the header class as it was redundant and updated css corresponding css selectors
     * navigation bar changed from being contained in a <div> container to a <nav> container - updated corresponding CSS
     * Implemented best practise with make the branding in the <header> of the page clickable to take the user back to the homepage
